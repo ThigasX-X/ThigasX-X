@@ -1,37 +1,29 @@
 # Olá, eu sou o Thiago (Thigas) 👋
 
-### Junior Developer | Java & Spring Boot Enthusiast | DevOps Learner
+### Junior Developer | Java & Spring Boot | Enterprise Systems Specialist
 
-Sou um desenvolvedor apaixonado por construir soluções eficientes e escaláveis. Atualmente, foco meu aprendizado no ecossistema **Java** e na modernização de aplicações com **Docker** e práticas de **DevOps**. Estou em constante evolução, buscando dominar tanto o back-end quanto o front-end para entregar experiências completas.
+Sou um desenvolvedor focado em construir e manter soluções de software para ambientes corporativos complexos. Atualmente, atuo como **Desenvolvedor Junior**, trabalhando no desenvolvimento de **sistemas empresariais robustos** e escaláveis. Tenho experiência prática no ecossistema **Java (Spring)**, com foco em regras de negócio densas, integração de sistemas e alta disponibilidade.
 
 ---
 
-### 🚀 Sobre mim
+### 🚀 Expertise Técnica
 
-- 💻 Atualmente trabalhando como **Desenvolvedor Junior**.
-- 🎓 Estudando a fundo **Spring Boot**, **Microserviços** e **SQL Server/MySQL**.
-- 🏗️ No front-end, gosto de trabalhar com **React**, **Vue.js** e **Tailwind CSS**.
-- 🛠️ Entusiasta de **Docker** e automação de infraestrutura.
-- 🍎 Integrando produtividade no ecossistema Apple (MacBook M4).
+* **Sistemas Empresariais:** Desenvolvimento e manutenção de aplicações complexas, lidando com lógica de negócio avançada e fluxos operacionais críticos.
+* **Backend & Arquitetura:** Domínio de **Spring Boot** para criação de APIs e serviços, com foco em performance e segurança.
+* **Gestão de Dados Críticos:** Experiência em manipulação e estruturação de dados em larga escala utilizando **SQL Server** e **MySQL**.
+* **Modernização & DevOps:** Implementação de containers com **Docker** para otimizar o deploy e a escalabilidade de sistemas legados e modernos.
+* **Frontend de Negócio:** Desenvolvimento de dashboards e interfaces administrativas utilizando **React**, **Vue.js** e **Tailwind CSS**.
 
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
 
-**Back-end & DB**
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Front-end**
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**DevOps & Tools**
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![Mac OS](https://img.shields.io/badge/macos-000000?style=for-the-badge&logo=apple&logoColor=white)
+| Categoria | Stack |
+| :--- | :--- |
+| **Linguagens** | Java (8/11/17+), JavaScript (ES6+), TypeScript |
+| **Frameworks** | Spring Boot, React, Vue.js |
+| **Bancos de Dados** | SQL Server (T-SQL), MySQL |
+| **Infra & Ferramentas** | Docker, Git, GitLab, Postman, Metodologias Ágeis |
 
 ---
 
@@ -44,7 +36,13 @@ Sou um desenvolvedor apaixonado por construir soluções eficientes e escalávei
 
 ---
 
-### 📫 Como me encontrar
+### 📫 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-sim%C3%B5es-890953211/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](thiagosfelinto@gmail.com)
+<p align="left">
+  <a href="https://www.linkedin.com/in/thiago-sim%C3%B5es-890953211/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:thiagosfelinto@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
