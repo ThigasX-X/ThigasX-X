@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:0f3460&height=200&section=header&text=Thiago%20Simões&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Arquiteto%20de%20Sistemas%20%7C%20Software%20Craftsman&descSize=18&descAlignY=60&descAlign=50" width="100%" />
 
 <!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=6DB33F&center=true&vCenter=true&width=600&lines=Java+%2B+Spring+Boot+Specialist;Sistemas+Corporativos+%7C+Miss%C3%A3o+Cr%C3%ADtica;Full-Stack+%7C+DevOps+%7C+SQL+Expert;Construindo+software+confi%C3%A1vel+em+escala" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=6DB33F&center=true&vCenter=true&width=600&lines=Java+%2B+Spring+Boot+Specialist;Sistemas+Corporativos+Microserviços%7C+Miss%C3%A3o+Cr%C3%ADtica;Full-Stack+%7C+DevOps+%7C+SQL+Expert;Construindo+software+confi%C3%A1vel+em+escala" alt="Typing SVG" />
 <br/>
 
 <a href="https://www.linkedin.com/in/thiago-sim%C3%B5es-890953211/" target="_blank">
@@ -26,7 +26,7 @@
 public class ThiagoSimoes extends SoftwareEngineer {
 
     private final String cargo     = "Backend Developer @ Hepta";
-    private final String foco      = "Sistemas Empresariais de Missão Crítica";
+    private final String foco      = "Sistemas Empresariais e Microserviços";
     private final String graduacao = "Engenharia de Software (Em Andamento)";
 
     private final String[] currently = {
