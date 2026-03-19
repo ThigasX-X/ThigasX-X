@@ -27,15 +27,6 @@ Sou um desenvolvedor focado em construir e manter soluções de software para am
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThigasX-X&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThigasX-X&layout=compact&langs_count=7&theme=dracula"/>
-</p>
-
----
-
 ### 📫 Conecte-se comigo
 
 <p align="left">
