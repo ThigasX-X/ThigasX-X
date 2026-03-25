@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER DINÂMICO -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:0f3460&height=200&section=header&text=Thiago%20Simões&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Engenheiro%20de%Software%&descSize=18&descAlignY=60&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:0f3460&height=200&section=header&text=Thiago%20Simões&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Engenheiro%20de%20%Software%&descSize=18&descAlignY=60&descAlign=50" width="100%" />
 
 <!-- TYPING ANIMATION -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=6DB33F&center=true&vCenter=true&width=600&lines=Java+%2B+Spring+Boot+Specialist;Sistemas+Corporativos+%7C+Microsservi%C3%A7os;Miss%C3%A3o+Cr%C3%ADtica+%7C+Alta+Escala;Full-Stack+%7C+DevOps+%7C+SQL+Expert;Construindo+software+confi%C3%A1vel+em+escala" alt="Typing SVG" />
